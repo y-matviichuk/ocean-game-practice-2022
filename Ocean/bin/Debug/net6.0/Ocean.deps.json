@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ocean/1.0.0": {
+        "dependencies": {
+          "OceanLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Ocean.dll": {}
+        }
+      },
+      "OceanLibrary/1.0.0": {
+        "runtime": {
+          "OceanLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ocean/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OceanLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

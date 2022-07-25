@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c92affeb-6e68-482e-ad10-348bd4a7d260": {
+      "ProjectGuid": "c92affeb-6e68-482e-ad10-348bd4a7d260",
+      "DisplayName": "Ocean",
+      "ColorIndex": 0
+    },
+    "1e4754e5-18d0-4129-8dd5-afa40c97d5bc": {
+      "ProjectGuid": "1e4754e5-18d0-4129-8dd5-afa40c97d5bc",
+      "DisplayName": "WinFormsOcean",
+      "ColorIndex": 1
+    },
+    "ed69dcbb-96cc-43b7-b6b9-5eca4faac691": {
+      "ProjectGuid": "ed69dcbb-96cc-43b7-b6b9-5eca4faac691",
+      "DisplayName": "OceanLibrary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
